@@ -19,6 +19,11 @@ The unpredictable nature of the changing bubbles keeps you on the edge, and ever
 Are you up for the challenge? 
 Let's see who can score the highest! Share your scores in the comments below and tag a friend you'd challenge to beat your Bubble Game score! 
 
+---Tech Stack:
+HTML: Structuring the game layout and interface.
+CSS: Styling the bubbles and creating an engaging user interface.
+JavaScript: Powering the game logic, handling the dynamic bubble changes, and managing the scoring system.
+
 
 
 
